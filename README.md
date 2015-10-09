@@ -1,2 +1,4 @@
 # lab7
-README
+README.TXT
+
+hello this is my first GitHub repository
